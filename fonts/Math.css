@@ -1,4 +1,4 @@
 @font-face {
-  src:('Math.ttf');
   font-family: 'Math';
+  src: url('https://mdrakib.pages.dev/fonts/Math.ttf') format('truetype');
 }
