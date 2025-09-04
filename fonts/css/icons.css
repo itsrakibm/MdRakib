@@ -1,6 +1,7 @@
 @font-face {
     font-family: "bi-icon";
-    src: url("./icons.woff2?a523686f0702b2927cd2b21baeadb503") format("woff2")
+    src: url("./icons.woff2?a523686f0702b2927cd2b21baeadb503") format("woff2");
+    display: swap;
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
